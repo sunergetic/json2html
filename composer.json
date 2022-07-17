@@ -1,6 +1,6 @@
 {
-  "name": "santarinto/json2html",
-  "description": "Generate colorized HTML for json data",
+  "name": "sunergetic/json2html",
+  "description": "Forked repository because of needed php8 support",
   "type": "library",
   "keywords": [
     "santarinto",
